@@ -1,7 +1,7 @@
 # ponderada-de-sala-4
 
 ## imagem do hardware:
-<img src="hardware.jpg">
+<img src="hardware.png">
 
 ### materiais: 
 | **Item**              | **Descrição / Observação**         | **Quantidade** |
