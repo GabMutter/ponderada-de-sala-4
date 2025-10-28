@@ -1,6 +1,7 @@
 # ponderada-de-sala-4
 
-### materiais: 
+## materiais: 
+
 | **Item**              | **Descrição / Observação**         | **Quantidade** |
 |------------------------|------------------------------------|----------------|
 | LED                   | Diodo emissor de luz     | 3 unidades     |
@@ -12,6 +13,7 @@
 
 
 ## codigo:
+
 ``` c++
 int x = 10;
 int* p = &x;
@@ -62,4 +64,6 @@ void loop()
 	leds.apita();
 }
 ```
+## video de demonstração:
+
 link do video de demonstração: [link](https://drive.google.com/file/d/1_r24__aUyEt4-2PgSn_q55IxkWEnfr8n/view?usp=sharing)
