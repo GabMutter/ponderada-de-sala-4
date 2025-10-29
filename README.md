@@ -66,6 +66,12 @@ void loop()
 	leds.apita();
 }
 ```
+### Explicação do código:
+
+O código cria uma classe chamada LED para controlar as luzes do semáforo e o buzzer. No construtor, são definidos os pinos usados para os LEDs vermelho, amarelo e verde, além do pino do buzzer, configurando todos como saídas.
+Na função apita(), o programa acende cada LED em sequência, simulando as fases do semáforo: primeiro o vermelho (pare), depois o amarelo (atenção) e, por fim, o verde (siga), que é acompanhado de um som gerado pelo buzzer.
+A função loop() chama leds.apita() continuamente, fazendo o ciclo se repetir de forma automática.
+
 ## video de demonstração:
 
 link do video de demonstração: [link](https://drive.google.com/file/d/1_r24__aUyEt4-2PgSn_q55IxkWEnfr8n/view?usp=sharing)
