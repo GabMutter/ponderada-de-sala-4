@@ -1,5 +1,7 @@
 # ponderada-de-sala-4
 
+Neste exercicio foi montado um circuito simples de semáforo utilizando o Arduino, LEDs e resistores. O objetivo foi simular o funcionamento das luzes de trânsito (vermelho, amarelo e verde) controladas por meio de programação, permitindo compreender o uso de saídas digitais e temporização no Arduino.
+
 ## materiais: 
 
 | **Item**              | **Descrição / Observação**         | **Quantidade** |
